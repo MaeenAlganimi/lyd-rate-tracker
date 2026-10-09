@@ -1,0 +1,55 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Currency {
+  code      String @id
+  nameEn    String
+  nameAr    String
+  symbol    String
+  sortOrder Int
+  rates     Rate[]
+}
+
+model Rate {
+  id           String   @id @default(cuid())
+  currencyCode String
+  currency     Currency @relation(fields: [currencyCode], references: [code], onDelete: Cascade)
+  date         DateTime @db.Date
+  kind         String
+  provider     String
+  lydPerUnit   Decimal  @db.Decimal(20, 8)
+  isSample     Boolean  @default(false)
+  isDerived    Boolean  @default(false)
+  note         String?
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  @@unique([currencyCode, date, kind, provider])
+  @@index([kind, provider, date])
+}
+
+model IngestionRun {
+  id         String    @id @default(cuid())
+  provider   String
+  status     String
+  startedAt  DateTime  @default(now())
+  finishedAt DateTime?
+  rowCount   Int       @default(0)
+  message    String?
+}
+
+model ManualAudit {
+  id           String   @id @default(cuid())
+  currencyCode String
+  date         DateTime @db.Date
+  kind         String
+  lydPerUnit   Decimal  @db.Decimal(20, 8)
+  note         String?
+  createdAt    DateTime @default(now())
+}

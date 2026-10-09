@@ -1,0 +1,2048 @@
+{
+  "provider": "hmrc",
+  "retrievedAt": "2026-10-09",
+  "licence": "Open Government Licence v3.0",
+  "sourceUrl": "https://www.trade-tariff.service.gov.uk/api/v2/exchange_rates/files/monthly_xml_{period}.xml",
+  "rows": [
+    {
+      "currencyCode": "GBP",
+      "date": "2024-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.056800",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.787606",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.236276",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.164337",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.154759",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.546404",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.113600",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.817652",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.240977",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.159882",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.155911",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.548649",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.100700",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.836452",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.222308",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.156083",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.156305",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.548008",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.119000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.820767",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.226787",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.148811",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.102680",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.550881",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.023500",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.835434",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.142138",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.148620",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.099615",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.531450",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.151300",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.840113",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.240055",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.150371",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.103367",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.554969",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.165700",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.842680",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.205758",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.148827",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.101502",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.547072",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.306400",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.838794",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.291492",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.146185",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.100379",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.561957",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.218000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.771332",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.303651",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.140598",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.097758",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.566010",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.301900",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.770192",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.306416",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.139837",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.098298",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.572095",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-11-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.240900",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-11-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.818484",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-11-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.187349",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-11-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.140543",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-11-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.098881",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-11-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.545810",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-12-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.165100",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-12-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.868978",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-12-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.139296",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-12-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.141244",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-12-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.097886",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-12-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.544441",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.203000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.881561",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.123906",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.139403",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.095979",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.542459",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.104000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.939710",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.158891",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.138588",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.098169",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.552746",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.176600",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.907906",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.116044",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.135180",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.096986",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.546121",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.243100",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "4.810526",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.247625",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.126084",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.095016",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.559722",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.378600",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.559943",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.317295",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.145833",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.108801",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.856438",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.409100",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.524232",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.254516",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.142257",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.110803",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.846367",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.311100",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.435358",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.254684",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.137544",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.107518",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.850865",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.332000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.414667",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.349701",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.133869",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.110353",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.885415",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.305800",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.422549",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.312797",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.132536",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.111570",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.880370",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.344800",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.381989",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.371270",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.130321",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.111787",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.863500",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-11-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.239700",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-11-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.431948",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-11-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.292108",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-11-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.129429",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-11-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.114244",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-11-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.847192",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-12-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.161800",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-12-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.456194",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-12-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.322210",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-12-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.128846",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-12-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.115124",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-12-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.849830",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.230500",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.424638",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.352574",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.126978",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.113985",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-01-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.857260",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.471700",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "5.571738",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.526642",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.128719",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.117589",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-02-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "1.934270",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "8.552200",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.300891",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.456797",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.144022",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.134004",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-03-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "2.207076",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "8.528800",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.383355",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.371478",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.144370",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.121959",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-04-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "2.178716",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "8.541900",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.326396",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.423866",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.140841",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.121628",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-05-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "2.191692",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "8.529500",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.365774",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.384848",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.139625",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.119230",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-06-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "2.185146",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "8.528000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.362280",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.374611",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.137370",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.127455",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-07-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "2.178177",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "8.577000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.416548",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.318884",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.135907",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.124970",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-08-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "2.176517",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "8.628900",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.366313",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.387124",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.132826",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.125581",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-09-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "2.186580",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "8.548700",
+      "isSample": false,
+      "isDerived": false,
+      "note": "Published HMRC sterling rate: units of foreign currency per 1 GBP. LYD is quoted directly, so this figure is already dinars per pound."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "6.353077",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "7.328504",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.130583",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "0.121987",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-10-01",
+      "kind": "official",
+      "provider": "hmrc",
+      "lydPerUnit": "2.169831",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from one HMRC monthly file: LYD per 1 unit = (LYD per GBP) / (currency per GBP). Both legs are from that file. This is not an HMRC LYD fixing."
+    }
+  ]
+}

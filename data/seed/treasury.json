@@ -1,0 +1,908 @@
+{
+  "provider": "treasury",
+  "retrievedAt": "2026-10-09",
+  "licence": "U.S. Treasury Fiscal Data — free, without restriction",
+  "sourceUrl": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/od/rates_of_exchange",
+  "rows": [
+    {
+      "currencyCode": "EGP",
+      "date": "2023-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.155089",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2023-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.183696",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2023-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.902228",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2023-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "1.564119",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2023-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.201589",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2023-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "4.769000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2023-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.154878",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2023-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.193478",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2023-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "6.048101",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2023-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "1.542783",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2023-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.183360",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2023-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "4.778000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2023-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.158088",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2023-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.166314",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2023-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.976716",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2023-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "1.540430",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2023-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.177817",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2023-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "4.877000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2023-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.099560",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2023-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.253039",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2023-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "6.048346",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2023-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "1.551567",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2023-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.160896",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2023-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "4.754000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.101943",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.207120",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "6.087011",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "1.543159",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.149184",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "4.827000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.101376",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.202139",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "6.149178",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "1.551515",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.147977",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "4.864000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.098113",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.298992",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "6.351678",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "1.569486",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.138452",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "4.732000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2024-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.096554",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2024-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.103018",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2024-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "6.153074",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2024-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "1.542138",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2024-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.138668",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2024-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "4.904000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.108135",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.912338",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "7.076425",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "1.757157",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.144013",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.463000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.109021",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "6.332943",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "7.400000",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "1.871795",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.136071",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.402000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.112751",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "6.330986",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "7.250000",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "1.863856",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.129741",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "5.394000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2025-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.132143",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2025-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "7.391304",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2025-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "8.465680",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2025-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "2.193931",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2025-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.146446",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2025-12-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "6.290000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.117112",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "7.347126",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "8.455026",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "2.187543",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.143711",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-03-31",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "6.392000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.130399",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "7.312429",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "8.482804",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "2.185753",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.137453",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-06-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "6.413000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    },
+    {
+      "currencyCode": "EGP",
+      "date": "2026-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.122952",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "EUR",
+      "date": "2026-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "7.241771",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "GBP",
+      "date": "2026-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "8.484043",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TND",
+      "date": "2026-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "2.145259",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "TRY",
+      "date": "2026-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "0.130201",
+      "isSample": false,
+      "isDerived": true,
+      "note": "Derived inside Sarf from U.S. Treasury reporting rates for the same quarter: LYD per 1 unit = (LYD per USD) / (units per USD)."
+    },
+    {
+      "currencyCode": "USD",
+      "date": "2026-09-30",
+      "kind": "official",
+      "provider": "treasury",
+      "lydPerUnit": "6.380000",
+      "isSample": false,
+      "isDerived": false,
+      "note": "U.S. Treasury reporting rate: foreign-currency units per 1 USD. Libya-Dinar is already dinars per dollar."
+    }
+  ]
+}
