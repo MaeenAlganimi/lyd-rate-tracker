@@ -1,0 +1,14 @@
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: sarf
+      POSTGRES_PASSWORD: sarf
+      POSTGRES_DB: sarf
+    ports:
+      - "5432:5432"
+    volumes:
+      - sarf-pg:/var/lib/postgresql/data
+
+volumes:
+  sarf-pg:

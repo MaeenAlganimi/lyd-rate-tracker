@@ -1,0 +1,64 @@
+{
+  "data": [
+    {
+      "country_currency_desc": "Egypt-Pound",
+      "exchange_rate": "49.18",
+      "record_date": "2026-06-30"
+    },
+    {
+      "country_currency_desc": "Euro Zone-Euro",
+      "exchange_rate": "0.877",
+      "record_date": "2026-06-30"
+    },
+    {
+      "country_currency_desc": "Libya-Dinar",
+      "exchange_rate": "6.413",
+      "record_date": "2026-06-30"
+    },
+    {
+      "country_currency_desc": "Tunisia-Dinar",
+      "exchange_rate": "2.934",
+      "record_date": "2026-06-30"
+    },
+    {
+      "country_currency_desc": "Turkey-New Lira",
+      "exchange_rate": "46.656",
+      "record_date": "2026-06-30"
+    },
+    {
+      "country_currency_desc": "United Kingdom-Pound",
+      "exchange_rate": "0.756",
+      "record_date": "2026-06-30"
+    },
+    {
+      "country_currency_desc": "Egypt-Pound",
+      "exchange_rate": "51.89",
+      "record_date": "2026-09-30"
+    },
+    {
+      "country_currency_desc": "Euro Zone-Euro",
+      "exchange_rate": "0.881",
+      "record_date": "2026-09-30"
+    },
+    {
+      "country_currency_desc": "Libya-Dinar",
+      "exchange_rate": "6.38",
+      "record_date": "2026-09-30"
+    },
+    {
+      "country_currency_desc": "Tunisia-Dinar",
+      "exchange_rate": "2.974",
+      "record_date": "2026-09-30"
+    },
+    {
+      "country_currency_desc": "Turkey-New Lira",
+      "exchange_rate": "49.001",
+      "record_date": "2026-09-30"
+    },
+    {
+      "country_currency_desc": "United Kingdom-Pound",
+      "exchange_rate": "0.752",
+      "record_date": "2026-09-30"
+    }
+  ]
+}
