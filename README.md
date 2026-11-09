@@ -209,3 +209,7 @@ Tests cover HMRC XML parsing, Treasury crossing, decimal spreads, the sample pre
 MIT. See [LICENSE](LICENSE).
 
 The MIT licence covers this repository's code. It does not replace the licences of the rate data, which stay with their publishers and are named above. Sample rows are synthetic and are not a licence to treat them as market data.
+
+## AI-assisted development
+
+This project was built with AI-assisted development: code, tests, and documentation were drafted with an AI assistant, then checked by running lint, typecheck, tests, and build. Nothing in this project should be read as production-audited.
